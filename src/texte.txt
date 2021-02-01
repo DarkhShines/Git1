@@ -1,1 +1,2 @@
 texte.txt
+Je modifie ce texte.txt
