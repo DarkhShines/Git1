@@ -1,2 +1,3 @@
 texte.txt
 Je modifie ce texte.txt
+Je le modifie a nouveau pour Git2
